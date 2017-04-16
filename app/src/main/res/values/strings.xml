@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Githubber</string>
+    <string name="id_title">ID</string>
+    <string name="pw_title">Password</string>
+    <string name="login">Log in</string>
+    <string name="insert_id">Please insert id</string>
+    <string name="insert_password">Please insert password</string>
+    <string name="log_in_success">Log in success</string>
+    <string name="log_in_fail">Log in fail</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+</resources>

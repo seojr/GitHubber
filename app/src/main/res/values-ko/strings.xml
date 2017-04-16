@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Githubber</string>
+    <string name="id_title">아이디</string>
+    <string name="pw_title">비밀번호</string>
+    <string name="login">로그인</string>
+    <string name="insert_id">아이디를 입력해주세요.</string>
+    <string name="insert_password">비밀번호를 입력해주세요.</string>
+    <string name="log_in_success">로그인 성공</string>
+    <string name="log_in_fail">로그인 실패</string>
+</resources>
