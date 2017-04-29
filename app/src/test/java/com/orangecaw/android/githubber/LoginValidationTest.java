@@ -5,8 +5,8 @@ import android.app.AlertDialog;
 import android.widget.Button;
 import android.widget.EditText;
 
-import com.orangecaw.android.githubber.view.ui.splash.SplashActivity;
-import com.orangecaw.android.githubber.view.ui.login.LoginFragment;
+import com.orangecaw.android.githubber.presentation.view.ui.splash.SplashActivity;
+import com.orangecaw.android.githubber.presentation.view.ui.login.LoginFragment;
 
 import junit.framework.TestCase;
 

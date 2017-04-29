@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.base;
+package com.orangecaw.android.githubber.presentation.view.base;
 
 public interface BasePresenter<V extends BaseView> {
 

@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.ui.timeline;
+package com.orangecaw.android.githubber.presentation.view.ui.timeline;
 
 import android.support.annotation.NonNull;
 import android.support.design.widget.NavigationView;
@@ -12,7 +12,8 @@ import android.view.MenuItem;
 
 import com.orangecaw.android.githubber.R;
 import com.orangecaw.android.githubber.data.User;
-import com.orangecaw.android.githubber.view.ui.timeline.event.ReceivedEventFragment_;
+import com.orangecaw.android.githubber.presentation.view.ui.timeline.GitHubNavigationHeader_;
+import com.orangecaw.android.githubber.presentation.view.ui.timeline.event.ReceivedEventFragment_;
 
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.AfterViews;

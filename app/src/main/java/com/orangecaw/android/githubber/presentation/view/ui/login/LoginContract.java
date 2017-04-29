@@ -1,7 +1,7 @@
-package com.orangecaw.android.githubber.view.ui.login;
+package com.orangecaw.android.githubber.presentation.view.ui.login;
 
-import com.orangecaw.android.githubber.view.base.BasePresenter;
-import com.orangecaw.android.githubber.view.base.BaseView;
+import com.orangecaw.android.githubber.presentation.view.base.BasePresenter;
+import com.orangecaw.android.githubber.presentation.view.base.BaseView;
 
 public interface LoginContract {
 

@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.ui.timeline.event;
+package com.orangecaw.android.githubber.presentation.view.ui.timeline.event;
 
 import com.orangecaw.android.githubber.data.User;
 import com.orangecaw.android.githubber.data.source.Repository;

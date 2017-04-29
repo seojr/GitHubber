@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.ui.login;
+package com.orangecaw.android.githubber.presentation.view.ui.login;
 
 import android.app.AlertDialog;
 import android.content.Intent;
@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import com.orangecaw.android.githubber.R;
-import com.orangecaw.android.githubber.view.ui.timeline.GitHubActivity_;
+import com.orangecaw.android.githubber.presentation.view.ui.timeline.GitHubActivity_;
 
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.Bean;

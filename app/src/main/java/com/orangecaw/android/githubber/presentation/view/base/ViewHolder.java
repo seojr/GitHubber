@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.base;
+package com.orangecaw.android.githubber.presentation.view.base;
 
 import android.support.v7.widget.RecyclerView;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.ui.splash;
+package com.orangecaw.android.githubber.presentation.view.ui.splash;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -7,8 +7,8 @@ import android.text.TextUtils;
 
 import com.orangecaw.android.githubber.R;
 import com.orangecaw.android.githubber.data.source.preferences.TokenPreferences;
-import com.orangecaw.android.githubber.view.ui.login.LoginFragment_;
-import com.orangecaw.android.githubber.view.ui.timeline.GitHubActivity_;
+import com.orangecaw.android.githubber.presentation.view.ui.login.LoginFragment_;
+import com.orangecaw.android.githubber.presentation.view.ui.timeline.GitHubActivity_;
 
 public class SplashActivity extends AppCompatActivity {
 

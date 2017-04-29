@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.ui.login;
+package com.orangecaw.android.githubber.presentation.view.ui.login;
 
 import com.orangecaw.android.githubber.data.source.Repository;
 

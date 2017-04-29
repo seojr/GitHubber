@@ -1,11 +1,11 @@
-package com.orangecaw.android.githubber.view.ui.timeline.event.recyclerview;
+package com.orangecaw.android.githubber.presentation.view.ui.timeline.event.recyclerview;
 
 import android.content.Context;
 import android.view.ViewGroup;
 
 import com.orangecaw.android.githubber.data.Event;
-import com.orangecaw.android.githubber.view.base.RecyclerViewAdapterBase;
-import com.orangecaw.android.githubber.view.base.ViewHolder;
+import com.orangecaw.android.githubber.presentation.view.base.RecyclerViewAdapterBase;
+import com.orangecaw.android.githubber.presentation.view.base.ViewHolder;
 
 import org.androidannotations.annotations.EBean;
 import org.androidannotations.annotations.RootContext;

@@ -1,8 +1,8 @@
-package com.orangecaw.android.githubber.view.ui.timeline;
+package com.orangecaw.android.githubber.presentation.view.ui.timeline;
 
 import com.orangecaw.android.githubber.data.User;
-import com.orangecaw.android.githubber.view.base.BasePresenter;
-import com.orangecaw.android.githubber.view.base.BaseView;
+import com.orangecaw.android.githubber.presentation.view.base.BasePresenter;
+import com.orangecaw.android.githubber.presentation.view.base.BaseView;
 
 public interface GitHubContract {
 

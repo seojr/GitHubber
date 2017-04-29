@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.ui.timeline.event;
+package com.orangecaw.android.githubber.presentation.view.ui.timeline.event;
 
 import android.app.Fragment;
 import android.support.annotation.UiThread;
@@ -7,7 +7,7 @@ import android.support.v7.widget.RecyclerView;
 
 import com.orangecaw.android.githubber.R;
 import com.orangecaw.android.githubber.data.Event;
-import com.orangecaw.android.githubber.view.ui.timeline.event.recyclerview.ReceivedEventAdapter;
+import com.orangecaw.android.githubber.presentation.view.ui.timeline.event.recyclerview.ReceivedEventAdapter;
 
 import org.androidannotations.annotations.AfterInject;
 import org.androidannotations.annotations.AfterViews;

@@ -1,4 +1,4 @@
-package com.orangecaw.android.githubber.view.ui.timeline.event.recyclerview;
+package com.orangecaw.android.githubber.presentation.view.ui.timeline.event.recyclerview;
 
 import android.content.Context;
 import android.view.View;
